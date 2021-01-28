@@ -1,5 +1,3 @@
-**note:** *you are given more time than needed to solve the problem, please also pay attention to code quality, structure, and tests.  Please use your normal IDE/Editor for development, you can use the Git interface to do so.*
-
 ## Letter Board
 
 We are playing a word game where you form words from letters with specific rules.
